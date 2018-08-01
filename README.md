@@ -1,2 +1,2 @@
 # Notebooks
-All notebooks can be found [here](https://hub.mybinder.org/user/kenzieacademy-python-notebooks-umeuultb/tree).
+All notebooks can be found [here](https://mybinder.org/v2/gh/kenzieacademy/python-notebooks/master).
