@@ -1,4 +1,4 @@
-## Kenzie Academy
+## Python -- Jupyter Notebook Collection
 
 This is a collection of Jupyter Notebooks used by Instructors and Facilitators for the Python Foundations curriculum.
 
